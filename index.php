@@ -6,6 +6,7 @@
 	<title>title master/one</title>
 </head>
 <body>
+	<h1>Master edit</h1>
 	<h1>Branchfour edit</h1>
 	<h1>Branchthree</h1>
 </body>
